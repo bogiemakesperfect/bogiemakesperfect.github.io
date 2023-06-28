@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634");
+    url("https://img.freepik.com/free-photo/beautiful-night-sky-with-shiny-stars_53876-23326.jpg?w=996&t=st=1687949650~exp=1687950250~hmac=82bedbad1adb5cd88cdf843dab1483aaf109221796eb26267cac9bea3aa6dac4");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634") center center fixed;
+    url("https://img.freepik.com/free-photo/beautiful-night-sky-with-shiny-stars_53876-23326.jpg?w=996&t=st=1687949650~exp=1687950250~hmac=82bedbad1adb5cd88cdf843dab1483aaf109221796eb26267cac9bea3aa6dac4") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634") !important;
+      url("https://img.freepik.com/free-photo/beautiful-night-sky-with-shiny-stars_53876-23326.jpg?w=996&t=st=1687949650~exp=1687950250~hmac=82bedbad1adb5cd88cdf843dab1483aaf109221796eb26267cac9bea3aa6dac4") !important;
   }
 }
